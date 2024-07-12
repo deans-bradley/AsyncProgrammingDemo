@@ -7,7 +7,7 @@ AsyncProgrammingDemo is a .NET Console Application that demonstrates asynchronou
 **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/AsyncProgrammingDemo.git
+git clone https://github.com/deans-bradley/AsyncProgrammingDemo.git
 cd AsyncProgrammingDemo
 ```
 
